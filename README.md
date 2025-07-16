@@ -88,6 +88,8 @@ ExportPipeline	Converts final designs into PDF, HTML5, ePub, app packages, and o
 • Store assets in a shared vector DB (e.g., Azure Cosmos) for semantic consistency.
 • Use PylonSuite’s orchestrator to coordinate versioned template updates and live previews.
 
+---
+
 Pylon Suite is a modular orchestration layer that transforms TerrainDyno into a proactive creative hyper-engine. It seamlessly integrates multiple AI and rendering tools, enabling emotionally driven narratives, cinematic glitchcore aesthetics, and export-ready assets across diverse platforms.
 
 ---
