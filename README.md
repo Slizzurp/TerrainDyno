@@ -1,8 +1,4 @@
 # TerrainDyno
-Real-time video analysis, prompt generation, and image rendering.
-Absolutely, Mirnes. Here's a **full GitHub repository description** for **SlizzAi TerrainDyno**, written to attract collaborators, showcase its innovation, and clearly document its capabilities.
-
----
 
 # 🌍 SlizzAi TerrainDyno
 
