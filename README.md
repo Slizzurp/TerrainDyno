@@ -9,6 +9,9 @@ TerrainDyno is a cutting-edge AI-powered system that transforms live video, audi
 ---
 
 ## 🚀 Features
+
+## Quark Suite
+
 Quark Suite is an AI-powered creative toolkit that automates content authoring, unifies semantic design assets, and streamlines collaboration across SlizzAi, Unreal Engine, and TerrainDyno. It serves as the creative heart of your pipeline—generating layouts, managing templates, and injecting narrative-driven style.
 
 ---
@@ -89,6 +92,8 @@ ExportPipeline	Converts final designs into PDF, HTML5, ePub, app packages, and o
 • Use PylonSuite’s orchestrator to coordinate versioned template updates and live previews.
 
 ---
+
+## Pylon Suite
 
 Pylon Suite is a modular orchestration layer that transforms TerrainDyno into a proactive creative hyper-engine. It seamlessly integrates multiple AI and rendering tools, enabling emotionally driven narratives, cinematic glitchcore aesthetics, and export-ready assets across diverse platforms.
 
